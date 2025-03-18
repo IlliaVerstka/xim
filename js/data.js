@@ -631,7 +631,7 @@ const data = {
 						items: [
 							{
 								text: "З металами",
-								tooltip: "Взаємодія цинку з соляною кислотою",
+								tooltip: "Взаємодія цинку з хлоридною кислотою",
 								content: {
 									urlVideo: "video/video18.mp4",
 									popup: {
